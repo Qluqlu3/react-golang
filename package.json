@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "concurrently \"pnpm -C backend run start\" \"pnpm -C frontend dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

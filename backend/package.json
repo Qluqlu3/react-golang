@@ -1,0 +1,7 @@
+{
+  "name": "backend",
+  "scripts": {
+    "build": "echo 'No build script for Go'",
+    "start": "go run main.go"
+  }
+}
